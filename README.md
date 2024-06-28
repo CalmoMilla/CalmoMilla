@@ -13,7 +13,7 @@
 	
   <div  height="400px" display="flex" items-center="center"> 
      <h3 align="left" width="50%" >
-<br/><br/><br/>
+<br/><br/><br/><br/>
  Somos uma equipe dedicada e comprometida em fornecer serviços de cuidado à saúde mental que promovem o bem-estar holístico e o equilíbrio emocional. Combinando experiência clínica e compaixão, estamos aqui para apoiar indivíduos em sua jornada para uma vida mais saudável e significativa. <br/><br/><br/>
 O CalmoMilla visa um impacto significativo na sociedade: queremos ampliar o acesso ao serviço de saúde mental e reduzir o estigma do tema, fazendo as pessoas se sentirem mais encorajadas a cuidarem de si. O CalmoMilla veio para mudar vidas, trazendo melhoria geral na qualidade de vida das pessoas.
 	 </h3>
