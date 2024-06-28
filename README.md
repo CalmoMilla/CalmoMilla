@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://uploaddeimagens.com.br/images/004/806/043/thumb/CalmoMilla.png?1719604486" width="100px"  height="100px" > 
- <h1>:yellow_heart:CalmoMilla:white_heart:</h1>
+ <h1>CalmoMilla</h1>
  </div>
 
 ![capa github readme calmomilla](https://github.com/CalmoMilla/CalmoMilla/assets/88356338/babbd903-0996-49da-afd1-ddb232c18dd8)
