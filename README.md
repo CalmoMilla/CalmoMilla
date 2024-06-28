@@ -37,7 +37,7 @@ O CalmoMilla visa um impacto significativo na sociedade: queremos ampliar o aces
 </div>
 <br/>
 
-## Acompanhe o Calmomilla nas redes sociais :mobile_phone::
+## Acompanhe o Calmomilla nas redes sociais 📱:
 
 Siga e não perca nenhuma novidade ou post!:
 
