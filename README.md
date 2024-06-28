@@ -2,9 +2,10 @@
 <img src="https://uploaddeimagens.com.br/images/004/806/043/thumb/CalmoMilla.png?1719604486" width="100px"  height="100px" > 
  <h1>:yellow_heart:CalmoMilla:white_heart:</h1>
  </div>
-<div align="center">
-  <img width="100%" src=""/>
-</div>
+
+![capa github readme calmomilla](https://github.com/CalmoMilla/CalmoMilla/assets/88356338/babbd903-0996-49da-afd1-ddb232c18dd8)
+
+
 <br/>
 <div align="center">
   
@@ -33,7 +34,10 @@ O CalmoMilla visa um impacto significativo na sociedade: queremos ampliar o aces
 
 ##
    <h2>Equipe:</h2>
-   <img width="100%" src="" />
+   
+![image](https://github.com/CalmoMilla/CalmoMilla/assets/88356338/9be9f8e2-fe8a-4396-9e77-7d4429c741da)
+
+
 </div>
 <br/>
 
